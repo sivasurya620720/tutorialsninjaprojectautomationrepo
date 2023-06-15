@@ -10,7 +10,7 @@ import com.tutorialsninja.qa.base.Baseclass;
 import com.tutorialsninja.qa.pageobjects.SearchAndResultsPage;
 
 public class SearchTest extends Baseclass{
-	
+	//Added a comment 15/06
 	public WebDriver driver;
 	
 	public SearchTest() {
